@@ -1,0 +1,26 @@
+[
+    {
+        "userImage": "https://randomuser.me/api/portraits/men/60.jpg",
+        "userName": "anis",
+        "storyImage": "https://images.pexels.com/photos/4726898/pexels-photo-4726898.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "isSeen": false
+    },
+    {
+        "userImage": "https://randomuser.me/api/portraits/women/81.jpg",
+        "userName": "nour",
+        "storyImage": "https://images.pexels.com/photos/5257534/pexels-photo-5257534.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "isSeen": false
+    },
+    {
+        "userImage": "https://randomuser.me/api/portraits/men/79.jpg",
+        "userName": "hani",
+        "storyImage": "https://images.pexels.com/photos/3380805/pexels-photo-3380805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "isSeen": false
+    },
+    {
+        "userImage": "https://randomuser.me/api/portraits/women/74.jpg",
+        "userName": "samar",
+        "storyImage": "https://images.pexels.com/photos/33287/dog-viszla-close.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "isSeen": false
+    }
+]
